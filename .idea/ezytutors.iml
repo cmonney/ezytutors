@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tutor-nodb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tutor-db/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/basic_error_handling/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
